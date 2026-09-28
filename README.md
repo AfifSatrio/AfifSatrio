@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Full Stack Web Developer · Next.js &amp; Laravel</strong><br>
-  Independent web development. Built around your business.
+  Built around your business.
 </p>
 
 <p align="center">
@@ -96,4 +96,4 @@ Have a project in mind, or just want to say hello?
   <a href="https://www.afifsatrio.dev/">Portfolio</a>
 </p>
 
-<p><strong>Afif Satrio</strong> · Independent web development.</p>
+<p><strong>Afif Satrio</strong></p>
