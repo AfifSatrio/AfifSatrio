@@ -18,18 +18,22 @@ I build websites tailored to business needs, from company profiles and content m
 ### [RATIH Creative](https://github.com/iqbalraihanfr/website-ratih-2025)
 
 A company profile website for a creative agency, with portfolio and blog content managed through an admin dashboard. I handled frontend development and collaborated with a backend teammate, supporting each other across implementation tasks.
+Stack: Next.js, Tailwind CSS, Prisma, Supabase, Firebase Auth, Github, Vercel
 
 ### [SIPANDA — SD Negeri Kedundung 2](https://github.com/iqbalraihanfr/sdn-2kedundung)
 
 A school information system combining a public school website with student data, attendance, and grade management. Part of my collaborative project work.
+Stack: Next.js, Tailwind CSS, Prisma, Supabase, Firebase Auth, Github, Vercel
 
-### [Lalunaspace]
+### [Lalunaspace](https://www.lalunaspace.id/)
 
 A company profile website for a café in Malang, with an admin dashboard for updating menu information and promotions.
+Stack: Next.js, Tailwind CSS, Prisma, Supabase, Firebase Auth, Github, Vercel
 
 ### [Alira Interior](https://github.com/AfifSatrio/alira-interior-website)
 
 A company profile website for an interior design business, with authentication and an admin dashboard for independent content management.
+Stack: Next.js, Tailwind CSS, Prisma, Supabase, Firebase Auth, Github, Vercel
 
 ### [Personal Portfolio](https://github.com/AfifSatrio/Web-Portofolio)
 
