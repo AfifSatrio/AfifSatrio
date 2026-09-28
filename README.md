@@ -23,6 +23,13 @@ A company profile website for a creative agency, with portfolio and blog content
 
 A school information system combining a public school website with student data, attendance, and grade management. Part of my collaborative project work.
 
+### [Lalunaspace]
+
+A company profile website for a café in Malang, with an admin dashboard for updating menu information and promotions.
+
+### [Alira Interior](https://github.com/AfifSatrio/alira-interior-website)
+
+A company profile website for an interior design business, with authentication and an admin dashboard for independent content management.
 
 ### [Personal Portfolio](https://github.com/AfifSatrio/Web-Portofolio)
 
