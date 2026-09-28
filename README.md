@@ -96,4 +96,4 @@ Have a project in mind, or just want to say hello?
   <a href="https://www.afifsatrio.dev/">Portfolio</a>
 </p>
 
-<p><strong>Afif Satrio</strong></p>
+<p><strong>Afif Satrio</strong> · Fullstack Web Developer</p>
