@@ -23,11 +23,6 @@ A company profile website for a creative agency, with portfolio and blog content
 
 A school information system combining a public school website with student data, attendance, and grade management. Part of my collaborative project work.
 
-### [Workit Landing Page](https://github.com/AfifSatrio/workit-landing-page)
-
-A responsive landing page built for a technical skill test using Next.js, TypeScript, Tailwind CSS, and Motion. The project README documents layout issues and the fixes applied during development.
-
-[Live demo](https://workit-landing-page-dun.vercel.app)
 
 ### [Personal Portfolio](https://github.com/AfifSatrio/Web-Portofolio)
 
